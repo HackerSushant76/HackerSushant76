@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackersushant76&label=Profile%20views&color=0e75b6&style=flat" alt="hackersushant76" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackersushant76" alt="hackersushant76" /></a> </p>
+
 - 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **Node, Express, MongoDB**
@@ -26,7 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackersushant76&show_icons=true&locale=en" alt="hackersushant76" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackersushant76&" alt="hackersushant76" /></p>
-<br/>
+
 
 <p>
   <img src="https://activity-graph.herokuapp.com/graph?username=HackerSushant76&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
