@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackersushant76&show_icons=true&locale=en" alt="hackersushant76" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackersushant76&" alt="hackersushant76" /></p>
+<br/>
+https://activity-graph.herokuapp.com/graph?username=HackerSushant76&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4
