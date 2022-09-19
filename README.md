@@ -27,4 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackersushant76&" alt="hackersushant76" /></p>
 <br/>
-https://activity-graph.herokuapp.com/graph?username=HackerSushant76&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4
+
+<p>https://activity-graph.herokuapp.com/graph?username=HackerSushant76&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4</p>
